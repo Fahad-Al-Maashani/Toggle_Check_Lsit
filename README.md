@@ -1,2 +1,2 @@
-# Toggle_Check_Lsit
+# Toggle_Check_List
 Simple toggle check written in dart for flutter project. 
